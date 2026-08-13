@@ -1,0 +1,407 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "astroturf",
+          "description": "An \"artificial\" css-in-js for those that want it all.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-12-19T09:33:10Z",
+            "owner": "astroturfcss",
+            "repo": "astroturf",
+            "stars": 2284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "csstag",
+          "description": "Tagged template for CSS Modules",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-02T18:43:38Z",
+            "owner": "sgtpep",
+            "repo": "csstag",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "CSS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tag-reduce",
+          "description": "Reduce tagged template literals to a single value",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-07-09T19:45:26Z",
+            "owner": "bredele",
+            "repo": "tag-reduce",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tage",
+          "description": "template tags easily made from other functions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-03-07T21:33:30Z",
+            "owner": "bengl",
+            "repo": "tage",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "is-tagged",
+          "description": "Check whether a function call is initiated by a tagged template string or invoked in a regular way",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-01-18T15:43:43Z",
+            "owner": "schwarzkopfb",
+            "repo": "is-tagged",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "common-tags",
+          "description": "Useful template literal tags for dealing with strings",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "es6-template-string",
+          "description": "Compile and resolve template strings notation as specified in ES6",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "usefulTags",
+          "description": "A tiny JavaScript library incorporating some useful template tag functions.",
+          "children": []
+        }
+      ],
+      "title": "General"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "HTM",
+          "description": "Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-01T21:36:52Z",
+            "owner": "developit",
+            "repo": "htm",
+            "stars": 9043
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hyperHTML",
+          "description": "A Fast & Light Virtual DOM Alternative",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-08-04T08:50:37Z",
+            "owner": "WebReflection",
+            "repo": "hyperHTML",
+            "stars": 3118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "t7",
+          "description": "Lightweight virtual DOM templating library",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-05-09T18:56:11Z",
+            "owner": "trueadm",
+            "repo": "t7",
+            "stars": 897
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "viperHTML",
+          "description": "Isomorphic hyperHTML",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-03-05T13:17:02Z",
+            "owner": "WebReflection",
+            "repo": "viperHTML",
+            "stars": 312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "facon",
+          "description": "Tiny utility (272B) to create DOM elements with manner",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-10-16T02:48:03Z",
+            "owner": "terkelg",
+            "repo": "facon",
+            "stars": 227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "html-template-tag",
+          "description": "Escapes interpolated values in HTML strings",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-16T10:08:55Z",
+            "owner": "AntonioVdlC",
+            "repo": "html-template-tag",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "escape-html-template-tag",
+          "description": "Escapes interpolated values in HTML strings",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-03T16:24:43Z",
+            "owner": "Janpot",
+            "repo": "escape-html-template-tag",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "genel",
+          "description": "Utility for generating html elements with tagged. Only 649 bytes.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-09-25T06:51:29Z",
+            "owner": "capsidjs",
+            "repo": "genel",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "macon",
+          "description": "Tiny utility (430B) to create reactive jquery components using a JSX-like syntax",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-01-22T13:45:08Z",
+            "owner": "LoganTann",
+            "repo": "macon",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "HTML"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Karin",
+          "description": "An elegant promise based HTTP client for the browser and node.js",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-02-09T07:37:01Z",
+            "owner": "valqelyan",
+            "repo": "karin",
+            "stars": 389
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "url-escape-tag",
+          "description": "A template tag for escaping url parameters based on ES2015 tagged templates",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-02-24T02:10:24Z",
+            "owner": "ruimarinho",
+            "repo": "url-escape-tag",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "HTTP"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ttag",
+          "description": "simple approach for javascript localization",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-07-01T10:25:38Z",
+            "owner": "ttag-org",
+            "repo": "ttag",
+            "stars": 354
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "i18n Tagged Template Literals",
+          "description": "ES2015 template literal tag for i18n and l10n (translation and internationalization)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2020-05-24T20:21:08Z",
+            "owner": "skolmer",
+            "repo": "es2015-i18n-tag",
+            "stars": 194
+          }
+        }
+      ],
+      "title": "Localization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SQL Template Strings",
+          "description": "ES6 tagged template strings for prepared SQL statements",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T23:29:35Z",
+            "owner": "felixfbecker",
+            "repo": "node-sql-template-strings",
+            "stars": 625
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sq-tag",
+          "description": "A template tag for writing elegant parameterized SQL queries based on ES2015 tagged template literals",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-11-04T01:45:30Z",
+            "owner": "ruimarinho",
+            "repo": "sql-tag",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sql",
+          "description": "Javascript tag to format SQL template literals",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-12-09T04:04:24Z",
+            "owner": "sequencework",
+            "repo": "sql",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-sql-composer",
+          "description": "Composable SQL template strings for Node.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-12-02T06:21:51Z",
+            "owner": "rafeememon",
+            "repo": "node-sql-composer",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sequelize-sql-tag",
+          "description": "A template tag for writing elegant parameterized SQL queries based on ES2015 tagged template literals using Sequelize",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-02-24T20:31:22Z",
+            "owner": "ruimarinho",
+            "repo": "sequelize-sql-tag",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sql-tags",
+          "description": "ES6 tagged template string functions for SQL statements.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-12-29T18:55:26Z",
+            "owner": "snooc",
+            "repo": "sql-tags",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "SQL"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:09:51.423Z",
+    "original_repository": "kay-is/awesome-tagged-templates",
+    "original_repository_sha": "1498067a2739cc41b710e5a1c1eebbaa803be8fb",
+    "enhanced_repository": "enhansome/enhansome-tagged-templates",
+    "enhanced_repository_description": null,
+    "title": "Awesome Tagged Templates with stars"
+  }
+}
