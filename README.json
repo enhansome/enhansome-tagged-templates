@@ -316,7 +316,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-11T23:29:35Z",
+            "last_commit": "2026-08-14T16:48:14Z",
             "owner": "felixfbecker",
             "repo": "node-sql-template-strings",
             "stars": 625
@@ -397,7 +397,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T17:42:26.818Z",
+    "last_updated": "2026-08-14T17:37:58.792Z",
     "original_repository": "kay-is/awesome-tagged-templates",
     "original_repository_sha": "1498067a2739cc41b710e5a1c1eebbaa803be8fb",
     "enhanced_repository": "enhansome/enhansome-tagged-templates",
