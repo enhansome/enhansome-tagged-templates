@@ -20,7 +20,7 @@ If you find something new and interesting, feel free to send a PR :)
 
 ### Date
 
-* [fdate](https://github.com/3846masa/fdate) ⭐ 36 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-12 *Light-weight, faster datetime formatter for modern browsers.*
+* [fdate](https://github.com/3846masa/fdate) ⭐ 36 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-14 *Light-weight, faster datetime formatter for modern browsers.*
 
 ### General
 
@@ -84,7 +84,7 @@ If you find something new and interesting, feel free to send a PR :)
 
 ### WebComponents
 
-* [snuggsi](https://github.com/devpunks/snuggsi) ⭐ 395 | 🐛 45 | 🌐 JavaScript | 📅 2026-08-14 *Easy Web Components in \~1kB*
+* [snuggsi](https://github.com/devpunks/snuggsi) ⭐ 395 | 🐛 45 | 🌐 JavaScript | 📅 2026-08-15 *Easy Web Components in \~1kB*
 
 ### YAML
 
@@ -92,4 +92,4 @@ If you find something new and interesting, feel free to send a PR :)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
