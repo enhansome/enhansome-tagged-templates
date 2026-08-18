@@ -119,7 +119,7 @@
             "last_commit": "2024-02-01T21:36:52Z",
             "owner": "developit",
             "repo": "htm",
-            "stars": 9044
+            "stars": 9045
           }
         },
         {
@@ -189,7 +189,7 @@
             "last_commit": "2026-02-16T10:08:55Z",
             "owner": "AntonioVdlC",
             "repo": "html-template-tag",
-            "stars": 70
+            "stars": 69
           }
         },
         {
@@ -397,7 +397,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T17:03:07.507Z",
+    "last_updated": "2026-08-18T17:03:30.203Z",
     "original_repository": "kay-is/awesome-tagged-templates",
     "original_repository_sha": "1498067a2739cc41b710e5a1c1eebbaa803be8fb",
     "enhanced_repository": "enhansome/enhansome-tagged-templates",

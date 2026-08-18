@@ -37,12 +37,12 @@ If you find something new and interesting, feel free to send a PR :)
 
 ### HTML
 
-* [HTM](https://github.com/developit/htm) ⭐ 9,044 | 🐛 49 | 🌐 JavaScript | 📅 2024-02-01 *Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.*
+* [HTM](https://github.com/developit/htm) ⭐ 9,045 | 🐛 49 | 🌐 JavaScript | 📅 2024-02-01 *Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.*
 * [hyperHTML](https://github.com/WebReflection/hyperHTML) ⭐ 3,116 | 🐛 11 | 🌐 HTML | 📅 2023-08-04 *A Fast & Light Virtual DOM Alternative*
 * [t7](https://github.com/trueadm/t7) ⚠️ Archived *Lightweight virtual DOM templating library*
 * [viperHTML](https://github.com/WebReflection/viperHTML) ⚠️ Archived *Isomorphic hyperHTML*
 * [facon](https://github.com/terkelg/facon) ⭐ 227 | 🐛 1 | 🌐 JavaScript | 📅 2024-10-16 *Tiny utility (272B) to create DOM elements with manner*
-* [html-template-tag](https://github.com/AntonioVdlC/html-template-tag) ⭐ 70 | 🐛 7 | 🌐 TypeScript | 📅 2026-02-16 *Escapes interpolated values in HTML strings*
+* [html-template-tag](https://github.com/AntonioVdlC/html-template-tag) ⭐ 69 | 🐛 7 | 🌐 TypeScript | 📅 2026-02-16 *Escapes interpolated values in HTML strings*
 * [escape-html-template-tag](https://github.com/Janpot/escape-html-template-tag) ⭐ 33 | 🐛 2 | 🌐 TypeScript | 📅 2026-02-03 *Escapes interpolated values in HTML strings*
 * [genel](https://github.com/capsidjs/genel) ⚠️ Archived *Utility for generating html elements with tagged`template literal`. Only 649 bytes.*
 * [macon](https://github.com/LoganTann/macon) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2025-01-22 *Tiny utility (430B) to create reactive jquery components using a JSX-like syntax*
@@ -84,7 +84,7 @@ If you find something new and interesting, feel free to send a PR :)
 
 ### WebComponents
 
-* [snuggsi](https://github.com/devpunks/snuggsi) ⭐ 395 | 🐛 45 | 🌐 JavaScript | 📅 2026-08-17 *Easy Web Components in \~1kB*
+* [snuggsi](https://github.com/devpunks/snuggsi) ⭐ 395 | 🐛 45 | 🌐 JavaScript | 📅 2026-08-18 *Easy Web Components in \~1kB*
 
 ### YAML
 
@@ -92,4 +92,4 @@ If you find something new and interesting, feel free to send a PR :)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
