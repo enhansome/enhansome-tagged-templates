@@ -44,6 +44,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "fdate",
+              "description": "Light-weight, faster datetime formatter for modern browsers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 131377180,
+                "language": "JavaScript",
+                "last_commit": "2026-08-20T20:02:26Z",
+                "owner": "3846masa",
+                "repo": "lit-date",
+                "stars": 36
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Date"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "tag-reduce",
               "description": "Reduce tagged template literals to a single value",
               "children": [],
@@ -96,6 +118,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "graphql-tag",
+              "description": "A JavaScript template literal tag that parses GraphQL queries",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61910952,
+                "language": "TypeScript",
+                "last_commit": "2026-06-17T10:24:15Z",
+                "owner": "apollographql",
+                "repo": "graphql-tag",
+                "stars": 2331
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GraphQL"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "HTM",
               "description": "Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.",
               "children": [],
@@ -121,7 +165,7 @@
                 "last_commit": "2023-08-04T08:50:37Z",
                 "owner": "WebReflection",
                 "repo": "hyperHTML",
-                "stars": 3116
+                "stars": 3118
               }
             },
             {
@@ -275,6 +319,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "concise-constructs",
+              "description": "A utility for defining [CDK] constructs without ever needing to think about scope.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 322397167,
+                "language": "TypeScript",
+                "last_commit": "2021-02-01T03:47:06Z",
+                "owner": "awslabs",
+                "repo": "concise-constructs",
+                "stars": 38
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "IaC"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "ttag",
               "description": "simple approach for javascript localization",
               "children": [],
@@ -307,6 +373,50 @@
           "description": null,
           "node_type": "group",
           "title": "Localization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "marli",
+              "description": "Markdown tagged template literal renderer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 102486430,
+                "language": "JavaScript",
+                "last_commit": "2018-03-09T23:59:16Z",
+                "owner": "YerkoPalma",
+                "repo": "marli",
+                "stars": 34
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Markdown"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "regexr",
+              "description": "For composing regular expressions without the need for double-escaping inside strings.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38023877,
+                "language": "TypeScript",
+                "last_commit": "2024-02-21T02:15:31Z",
+                "owner": "trusktr",
+                "repo": "regexr",
+                "stars": 64
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Regular Expressions"
         },
         {
           "children": [
@@ -404,13 +514,57 @@
           "description": null,
           "node_type": "group",
           "title": "SQL"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "snuggsi",
+              "description": "Easy Web Components in ~1kB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 598315,
+                "language": "JavaScript",
+                "last_commit": "2026-08-24T00:58:31Z",
+                "owner": "devpunks",
+                "repo": "snuggsi",
+                "stars": 395
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "WebComponents"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "yaml-tag",
+              "description": "Template literal tag function for YAML in JS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93529746,
+                "language": "JavaScript",
+                "last_commit": "2023-05-06T10:11:46Z",
+                "owner": "jeanfredrik",
+                "repo": "yaml-tag",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "YAML"
         }
       ],
       "title": "Libraries"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T17:00:38.940Z",
+    "last_updated": "2026-08-24T14:39:59.674Z",
     "original_repository": "kay-is/awesome-tagged-templates",
     "original_repository_id": 164878132,
     "original_repository_sha": "1498067a2739cc41b710e5a1c1eebbaa803be8fb",

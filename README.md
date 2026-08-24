@@ -38,7 +38,7 @@ If you find something new and interesting, feel free to send a PR :)
 ### HTML
 
 * [HTM](https://github.com/developit/htm) ⭐ 9,044 | 🐛 49 | 🌐 JavaScript | 📅 2024-02-01 *Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.*
-* [hyperHTML](https://github.com/WebReflection/hyperHTML) ⭐ 3,116 | 🐛 11 | 🌐 HTML | 📅 2023-08-04 *A Fast & Light Virtual DOM Alternative*
+* [hyperHTML](https://github.com/WebReflection/hyperHTML) ⭐ 3,118 | 🐛 11 | 🌐 HTML | 📅 2023-08-04 *A Fast & Light Virtual DOM Alternative*
 * [t7](https://github.com/trueadm/t7) ⚠️ Archived *Lightweight virtual DOM templating library*
 * [viperHTML](https://github.com/WebReflection/viperHTML) ⚠️ Archived *Isomorphic hyperHTML*
 * [facon](https://github.com/terkelg/facon) ⭐ 227 | 🐛 1 | 🌐 JavaScript | 📅 2024-10-16 *Tiny utility (272B) to create DOM elements with manner*
@@ -84,7 +84,7 @@ If you find something new and interesting, feel free to send a PR :)
 
 ### WebComponents
 
-* [snuggsi](https://github.com/devpunks/snuggsi) ⭐ 395 | 🐛 45 | 🌐 JavaScript | 📅 2026-08-23 *Easy Web Components in \~1kB*
+* [snuggsi](https://github.com/devpunks/snuggsi) ⭐ 395 | 🐛 45 | 🌐 JavaScript | 📅 2026-08-24 *Easy Web Components in \~1kB*
 
 ### YAML
 
@@ -92,4 +92,4 @@ If you find something new and interesting, feel free to send a PR :)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
