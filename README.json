@@ -51,7 +51,7 @@
                 "archived": false,
                 "id": 131377180,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T20:02:26Z",
+                "last_commit": "2026-08-26T11:05:10Z",
                 "owner": "3846masa",
                 "repo": "lit-date",
                 "stars": 36
@@ -225,7 +225,7 @@
                 "last_commit": "2026-02-16T10:08:55Z",
                 "owner": "AntonioVdlC",
                 "repo": "html-template-tag",
-                "stars": 69
+                "stars": 70
               }
             },
             {
@@ -429,7 +429,7 @@
                 "archived": false,
                 "id": 42783737,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T20:26:15Z",
+                "last_commit": "2026-08-26T15:41:04Z",
                 "owner": "felixfbecker",
                 "repo": "node-sql-template-strings",
                 "stars": 625
@@ -526,7 +526,7 @@
                 "archived": false,
                 "id": 598315,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T00:58:22Z",
+                "last_commit": "2026-08-26T00:59:40Z",
                 "owner": "devpunks",
                 "repo": "snuggsi",
                 "stars": 395
@@ -564,7 +564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T17:15:36.629Z",
+    "last_updated": "2026-08-26T18:23:43.228Z",
     "original_repository": "kay-is/awesome-tagged-templates",
     "original_repository_id": 164878132,
     "original_repository_sha": "1498067a2739cc41b710e5a1c1eebbaa803be8fb",
