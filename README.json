@@ -51,7 +51,7 @@
                 "archived": false,
                 "id": 131377180,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T11:05:10Z",
+                "last_commit": "2026-08-26T22:10:03Z",
                 "owner": "3846masa",
                 "repo": "lit-date",
                 "stars": 36
@@ -150,7 +150,7 @@
                 "last_commit": "2024-02-01T21:36:52Z",
                 "owner": "developit",
                 "repo": "htm",
-                "stars": 9044
+                "stars": 9043
               }
             },
             {
@@ -165,7 +165,7 @@
                 "last_commit": "2023-08-04T08:50:37Z",
                 "owner": "WebReflection",
                 "repo": "hyperHTML",
-                "stars": 3119
+                "stars": 3117
               }
             },
             {
@@ -526,7 +526,7 @@
                 "archived": false,
                 "id": 598315,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T00:59:40Z",
+                "last_commit": "2026-08-27T06:53:58Z",
                 "owner": "devpunks",
                 "repo": "snuggsi",
                 "stars": 395
@@ -564,9 +564,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T18:23:43.228Z",
-    "original_repository": "kay-is/awesome-tagged-templates",
-    "original_repository_id": 164878132,
+    "last_updated": "2026-08-27T12:09:47.232Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 164878132,
+      "language": null,
+      "last_commit": "2024-10-05T13:37:54Z",
+      "owner": "kay-is",
+      "repo": "awesome-tagged-templates",
+      "stars": 98
+    },
     "original_repository_sha": "1498067a2739cc41b710e5a1c1eebbaa803be8fb",
     "enhanced_repository": "enhansome/enhansome-tagged-templates",
     "enhanced_repository_description": null,

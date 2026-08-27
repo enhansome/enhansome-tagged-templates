@@ -20,7 +20,7 @@ If you find something new and interesting, feel free to send a PR :)
 
 ### Date
 
-* [fdate](https://github.com/3846masa/fdate) ⭐ 36 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-26 *Light-weight, faster datetime formatter for modern browsers.*
+* [fdate](https://github.com/3846masa/fdate) ⭐ 36 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-26 *Light-weight, faster datetime formatter for modern browsers.*
 
 ### General
 
@@ -37,8 +37,8 @@ If you find something new and interesting, feel free to send a PR :)
 
 ### HTML
 
-* [HTM](https://github.com/developit/htm) ⭐ 9,044 | 🐛 49 | 🌐 JavaScript | 📅 2024-02-01 *Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.*
-* [hyperHTML](https://github.com/WebReflection/hyperHTML) ⭐ 3,119 | 🐛 11 | 🌐 HTML | 📅 2023-08-04 *A Fast & Light Virtual DOM Alternative*
+* [HTM](https://github.com/developit/htm) ⭐ 9,043 | 🐛 49 | 🌐 JavaScript | 📅 2024-02-01 *Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.*
+* [hyperHTML](https://github.com/WebReflection/hyperHTML) ⭐ 3,117 | 🐛 11 | 🌐 HTML | 📅 2023-08-04 *A Fast & Light Virtual DOM Alternative*
 * [t7](https://github.com/trueadm/t7) ⚠️ Archived *Lightweight virtual DOM templating library*
 * [viperHTML](https://github.com/WebReflection/viperHTML) ⚠️ Archived *Isomorphic hyperHTML*
 * [facon](https://github.com/terkelg/facon) ⭐ 227 | 🐛 1 | 🌐 JavaScript | 📅 2024-10-16 *Tiny utility (272B) to create DOM elements with manner*
@@ -58,7 +58,7 @@ If you find something new and interesting, feel free to send a PR :)
 
 ### Localization
 
-* [ttag](https://github.com/ttag-org/ttag) ⭐ 354 | 🐛 51 | 🌐 TypeScript | 📅 2025-07-01 *simple approach for javascript localization*
+* [ttag](https://github.com/ttag-org/ttag) ⭐ 354 | 🐛 50 | 🌐 TypeScript | 📅 2025-07-01 *simple approach for javascript localization*
 * [i18n Tagged Template Literals](https://github.com/skolmer/es2015-i18n-tag) ⚠️ Archived *ES2015 template literal tag for i18n and l10n (translation and internationalization)*
 
 ### Markdown
@@ -84,7 +84,7 @@ If you find something new and interesting, feel free to send a PR :)
 
 ### WebComponents
 
-* [snuggsi](https://github.com/devpunks/snuggsi) ⭐ 395 | 🐛 45 | 🌐 JavaScript | 📅 2026-08-26 *Easy Web Components in \~1kB*
+* [snuggsi](https://github.com/devpunks/snuggsi) ⭐ 395 | 🐛 45 | 🌐 JavaScript | 📅 2026-08-27 *Easy Web Components in \~1kB*
 
 ### YAML
 
@@ -92,4 +92,4 @@ If you find something new and interesting, feel free to send a PR :)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
