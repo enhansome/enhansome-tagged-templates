@@ -20,7 +20,7 @@ If you find something new and interesting, feel free to send a PR :)
 
 ### Date
 
-* [fdate](https://github.com/3846masa/fdate) ⭐ 36 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-26 *Light-weight, faster datetime formatter for modern browsers.*
+* [fdate](https://github.com/3846masa/fdate) ⭐ 36 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-27 *Light-weight, faster datetime formatter for modern browsers.*
 
 ### General
 
@@ -92,4 +92,4 @@ If you find something new and interesting, feel free to send a PR :)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
