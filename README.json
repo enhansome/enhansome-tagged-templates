@@ -12,12 +12,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Better Styling through Compiling: CSS-in-JS for those that want it all.",
+                "homepage": "https://astroturfcss.github.io/astroturf/",
                 "id": 71260883,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-12-19T09:33:10Z",
+                "open_issues": 81,
                 "owner": "astroturfcss",
                 "repo": "astroturf",
-                "stars": 2284
+                "stars": 2284,
+                "topics": [
+                  "astroturf",
+                  "css"
+                ]
               },
               "first_seen": "2026-08-29T00:41:59.099Z"
             },
@@ -28,12 +36,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tagged template for CSS Modules: const styles = css`.root { color: red; }`; <div class={styles.root}></div>",
+                "homepage": "https://sgtpep.github.io/csstag/demo/",
                 "id": 169158568,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-03-02T18:43:38Z",
+                "open_issues": 10,
                 "owner": "sgtpep",
                 "repo": "csstag",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "browser",
+                  "css",
+                  "css-modules",
+                  "esm",
+                  "postcss",
+                  "tagged-template",
+                  "tagged-template-literal",
+                  "template-literal"
+                ]
               },
               "first_seen": "2026-08-29T00:41:59.099Z"
             }
@@ -51,12 +73,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Light-weight, faster datetime formatter for modern browsers.",
+                "homepage": null,
                 "id": 131377180,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T21:56:37Z",
+                "open_issues": 5,
                 "owner": "3846masa",
                 "repo": "lit-date",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "date",
+                  "datetime",
+                  "format",
+                  "formatter",
+                  "javascript",
+                  "lit-date",
+                  "modern-browsers",
+                  "template-literals",
+                  "time",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T00:41:59.099Z"
             }
@@ -74,12 +112,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reduce tagged template literals to a single value",
+                "homepage": null,
                 "id": 140310655,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-07-09T19:45:26Z",
+                "open_issues": 0,
                 "owner": "bredele",
                 "repo": "tag-reduce",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "reduce",
+                  "tagged-template-literals",
+                  "template-literals"
+                ]
               },
               "first_seen": "2026-08-29T00:41:59.099Z"
             },
@@ -90,12 +137,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "template tags easily made from other functions",
+                "homepage": null,
                 "id": 49081793,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-03-07T21:33:30Z",
+                "open_issues": 0,
                 "owner": "bengl",
                 "repo": "tage",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:41:59.099Z"
             },
@@ -106,12 +158,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Check whether a function call is initiated by a tagged template string or invoked in a regular way",
+                "homepage": null,
                 "id": 49881453,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-01-18T15:43:43Z",
+                "open_issues": 0,
                 "owner": "schwarzkopfb",
                 "repo": "is-tagged",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:41:59.099Z"
             }
@@ -129,12 +186,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A JavaScript template literal tag that parses GraphQL queries",
+                "homepage": null,
                 "id": 61910952,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-17T10:24:15Z",
+                "open_issues": 97,
                 "owner": "apollographql",
                 "repo": "graphql-tag",
-                "stars": 2331
+                "stars": 2331,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:41:59.099Z"
             }
@@ -152,12 +214,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.",
+                "homepage": null,
                 "id": 142916901,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2024-02-01T21:36:52Z",
+                "open_issues": 49,
                 "owner": "developit",
                 "repo": "htm",
-                "stars": 9043
+                "stars": 9043,
+                "topics": [
+                  "babel",
+                  "babel-plugin",
+                  "jsx",
+                  "tagged-template",
+                  "virtual-dom"
+                ]
               },
               "first_seen": "2026-08-29T00:41:59.099Z"
             },
@@ -168,12 +241,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Fast & Light Virtual DOM Alternative",
+                "homepage": null,
                 "id": 83887745,
                 "language": "HTML",
+                "license": "ISC",
                 "last_commit": "2023-08-04T08:50:37Z",
+                "open_issues": 11,
                 "owner": "WebReflection",
                 "repo": "hyperHTML",
-                "stars": 3117
+                "stars": 3117,
+                "topics": [
+                  "alternative",
+                  "dom",
+                  "js",
+                  "lightweight",
+                  "manipulation",
+                  "performance",
+                  "template",
+                  "template-literals",
+                  "vanilla",
+                  "virtualdom"
+                ]
               },
               "first_seen": "2026-08-29T00:41:59.099Z"
             },
@@ -184,12 +273,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Lightweight virtual DOM templating library",
+                "homepage": null,
                 "id": 31656348,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-05-09T18:56:11Z",
+                "open_issues": 11,
                 "owner": "trueadm",
                 "repo": "t7",
-                "stars": 896
+                "stars": 896,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:41:59.099Z"
             },
@@ -200,12 +294,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Isomorphic hyperHTML",
+                "homepage": null,
                 "id": 84357939,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2020-03-05T13:17:02Z",
+                "open_issues": 1,
                 "owner": "WebReflection",
                 "repo": "viperHTML",
-                "stars": 312
+                "stars": 312,
+                "topics": [
+                  "html",
+                  "isomorphic",
+                  "js",
+                  "lightweight",
+                  "manipulation",
+                  "performance",
+                  "template",
+                  "template-literals",
+                  "vanilla"
+                ]
               },
               "first_seen": "2026-08-29T00:41:59.099Z"
             },
@@ -216,12 +325,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tiny utility (365B) to create DOM elements with manner.",
+                "homepage": null,
                 "id": 155976403,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-10-16T02:48:03Z",
+                "open_issues": 1,
                 "owner": "terkelg",
                 "repo": "facon",
-                "stars": 227
+                "stars": 227,
+                "topics": [
+                  "dom",
+                  "html",
+                  "template-literals",
+                  "utility",
+                  "view"
+                ]
               },
               "first_seen": "2026-08-29T00:41:59.099Z"
             },
@@ -232,12 +352,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":page_facing_up: - ES6 Tagged Template for compiling HTML template strings",
+                "homepage": null,
                 "id": 47476977,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-02-16T10:08:55Z",
+                "open_issues": 7,
                 "owner": "AntonioVdlC",
                 "repo": "html-template-tag",
-                "stars": 70
+                "stars": 70,
+                "topics": [
+                  "html-template",
+                  "string-interpolation",
+                  "template-string"
+                ]
               },
               "first_seen": "2026-08-29T00:41:59.099Z"
             },
@@ -248,12 +377,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tag literal strings with this function to html escape interpolated values",
+                "homepage": null,
                 "id": 82476779,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-02-03T16:24:43Z",
+                "open_issues": 2,
                 "owner": "Janpot",
                 "repo": "escape-html-template-tag",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:41:59.099Z"
             },
@@ -264,12 +398,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":mushroom: Utility for generating html elements with tagged`template literal`. Only 649 bytes.",
+                "homepage": "https://unpkg.com/genel",
                 "id": 104648959,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-09-25T06:51:29Z",
+                "open_issues": 0,
                 "owner": "capsidjs",
                 "repo": "genel",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "dom",
+                  "html",
+                  "html-element",
+                  "tagged-template-literals"
+                ]
               },
               "first_seen": "2026-08-29T00:41:59.099Z"
             },
@@ -280,12 +424,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tiny utility (430B) to create reactive jquery components using a JSX-like syntax",
+                "homepage": null,
                 "id": 858806149,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-01-22T13:45:08Z",
+                "open_issues": 0,
                 "owner": "LoganTann",
                 "repo": "macon",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "dom",
+                  "html",
+                  "jquery",
+                  "jsx",
+                  "template-literals",
+                  "utility",
+                  "view",
+                  "web-components"
+                ]
               },
               "first_seen": "2026-08-29T00:41:59.099Z"
             }
@@ -303,12 +461,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An elegant promise based HTTP client for the browser and node.js",
+                "homepage": null,
                 "id": 163268503,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-02-09T07:37:01Z",
+                "open_issues": 1,
                 "owner": "valqelyan",
                 "repo": "karin",
-                "stars": 390
+                "stars": 390,
+                "topics": [
+                  "browser",
+                  "http-client",
+                  "http-requests",
+                  "javascript",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-29T00:41:59.099Z"
             },
@@ -319,12 +488,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A template tag for escaping url parameters based on ES2015 tagged templates",
+                "homepage": null,
                 "id": 52406436,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-02-24T02:10:24Z",
+                "open_issues": 0,
                 "owner": "ruimarinho",
                 "repo": "url-escape-tag",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:41:59.099Z"
             }
@@ -342,12 +516,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A functional-feeling DX for the AWS CDK and other construct libraries",
+                "homepage": null,
                 "id": 322397167,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2021-02-01T03:47:06Z",
+                "open_issues": 0,
                 "owner": "awslabs",
                 "repo": "concise-constructs",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "aws-cdk",
+                  "cdk",
+                  "cdk8s",
+                  "constructs",
+                  "terraform-cdk"
+                ]
               },
               "first_seen": "2026-08-29T00:41:59.099Z"
             }
@@ -365,12 +550,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":orange_book: simple approach for javascript localization",
+                "homepage": "https://ttag.js.org/",
                 "id": 78681287,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-07-01T10:25:38Z",
+                "open_issues": 50,
                 "owner": "ttag-org",
                 "repo": "ttag",
-                "stars": 354
+                "stars": 354,
+                "topics": [
+                  "es6",
+                  "i18n",
+                  "javascript-localization",
+                  "localization",
+                  "template-literals"
+                ]
               },
               "first_seen": "2026-08-29T00:41:59.099Z"
             },
@@ -381,12 +577,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "ES2015 template literal tag for i18n and l10n (translation and internationalization)",
+                "homepage": "http://i18n-tag.kolmer.net",
                 "id": 59470897,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2020-05-24T20:21:08Z",
+                "open_issues": 19,
                 "owner": "skolmer",
                 "repo": "es2015-i18n-tag",
-                "stars": 194
+                "stars": 194,
+                "topics": [
+                  "es2015",
+                  "es6",
+                  "i18n",
+                  "javascript",
+                  "l10n",
+                  "localization",
+                  "translation"
+                ]
               },
               "first_seen": "2026-08-29T00:41:59.099Z"
             }
@@ -404,12 +613,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":memo: Markdown tagged template literal renderer",
+                "homepage": "https://www.npmjs.com/package/marli",
                 "id": 102486430,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-03-09T23:59:16Z",
+                "open_issues": 1,
                 "owner": "YerkoPalma",
                 "repo": "marli",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "markdown",
+                  "renderer",
+                  "template-literals"
+                ]
               },
               "first_seen": "2026-08-29T00:41:59.099Z"
             }
@@ -427,12 +645,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easily compose regular expressions without the need for double-escaping inside strings.",
+                "homepage": null,
                 "id": 38023877,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-02-21T02:15:31Z",
+                "open_issues": 2,
                 "owner": "trusktr",
                 "repo": "regexr",
-                "stars": 64
+                "stars": 64,
+                "topics": [
+                  "es6",
+                  "hand-picked-regexes",
+                  "javascript",
+                  "regex",
+                  "regex-engine",
+                  "regex-util",
+                  "regexes",
+                  "regexp",
+                  "regexr",
+                  "regular-expression",
+                  "template-string"
+                ]
               },
               "first_seen": "2026-08-29T00:41:59.099Z"
             }
@@ -450,12 +685,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ES6 tagged template strings for prepared SQL statements 📋",
+                "homepage": null,
                 "id": 42783737,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2026-08-26T15:41:04Z",
+                "open_issues": 69,
                 "owner": "felixfbecker",
                 "repo": "node-sql-template-strings",
-                "stars": 625
+                "stars": 625,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:41:59.099Z"
             },
@@ -466,12 +706,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A template tag for writing elegant parameterized SQL queries based on ES2015 tagged template literals",
+                "homepage": "https://www.npmjs.com/package/sql-tag",
                 "id": 31238014,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-11-04T01:45:30Z",
+                "open_issues": 1,
                 "owner": "ruimarinho",
                 "repo": "sql-tag",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:41:59.099Z"
             },
@@ -482,12 +727,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Javascript tag to format SQL template literals",
+                "homepage": null,
                 "id": 145339873,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2022-12-09T04:04:24Z",
+                "open_issues": 25,
                 "owner": "sequencework",
                 "repo": "sql",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "javascript",
+                  "node-postgres",
+                  "pg",
+                  "sql",
+                  "template-literals"
+                ]
               },
               "first_seen": "2026-08-29T00:41:59.099Z"
             },
@@ -498,12 +754,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Composable SQL template strings for Node.js",
+                "homepage": null,
                 "id": 47143485,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2015-12-02T06:21:51Z",
+                "open_issues": 0,
                 "owner": "rafeememon",
                 "repo": "node-sql-composer",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:41:59.099Z"
             },
@@ -514,12 +775,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A template tag for writing elegant parameterized SQL queries based on ES2015 tagged template literals using Sequelize",
+                "homepage": "https://www.npmjs.com/package/sequelize-sql-tag",
                 "id": 31237176,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-02-24T20:31:22Z",
+                "open_issues": 0,
                 "owner": "ruimarinho",
                 "repo": "sequelize-sql-tag",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:41:59.099Z"
             },
@@ -530,12 +796,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ES6 tagged template string functions for SQL statements.",
+                "homepage": "https://www.npmjs.com/package/sql-tags",
                 "id": 44200055,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2015-12-29T18:55:26Z",
+                "open_issues": 0,
                 "owner": "snooc",
                 "repo": "sql-tags",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:41:59.099Z"
             }
@@ -553,12 +824,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "snuggsi ツ - Easy Web Elements in ~1kB",
+                "homepage": "https://snuggsi.com",
                 "id": 598315,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T08:42:02Z",
+                "open_issues": 45,
                 "owner": "devpunks",
                 "repo": "snuggsi",
-                "stars": 395
+                "stars": 395,
+                "topics": [
+                  "custom-elements",
+                  "dom",
+                  "ecmascript",
+                  "es6",
+                  "frontend",
+                  "html",
+                  "javascript",
+                  "template-literals",
+                  "webcomponents"
+                ]
               },
               "first_seen": "2026-08-29T00:41:59.099Z"
             }
@@ -576,12 +862,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Template literal tag function for YAML in JS",
+                "homepage": null,
                 "id": 93529746,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-05-06T10:11:46Z",
+                "open_issues": 1,
                 "owner": "jeanfredrik",
                 "repo": "yaml-tag",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "node-module",
+                  "yaml"
+                ]
               },
               "first_seen": "2026-08-29T00:41:59.099Z"
             }
@@ -595,15 +889,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:41:59.099Z",
+    "last_updated": "2026-08-29T04:57:21.256Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of libraries and learning resources for ES2015 tagged template literals",
+      "homepage": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals",
       "id": 164878132,
       "language": null,
+      "license": null,
       "last_commit": "2024-10-05T13:37:54Z",
+      "open_issues": 0,
       "owner": "kay-is",
       "repo": "awesome-tagged-templates",
-      "stars": 98
+      "stars": 98,
+      "topics": [
+        "awesome-list",
+        "education",
+        "es2015",
+        "es6",
+        "javascript",
+        "tagged-template-literals",
+        "template-literals"
+      ]
     },
     "original_repository_sha": "1498067a2739cc41b710e5a1c1eebbaa803be8fb",
     "enhanced_repository": "enhansome/enhansome-tagged-templates",
