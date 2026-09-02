@@ -690,7 +690,7 @@
                 "id": 42783737,
                 "language": "JavaScript",
                 "license": "ISC",
-                "last_commit": "2026-08-31T18:09:10Z",
+                "last_commit": "2026-09-02T17:00:48Z",
                 "open_issues": 68,
                 "owner": "felixfbecker",
                 "repo": "node-sql-template-strings",
@@ -829,7 +829,7 @@
                 "id": 598315,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-01T03:13:33Z",
+                "last_commit": "2026-09-02T02:31:32Z",
                 "open_issues": 45,
                 "owner": "devpunks",
                 "repo": "snuggsi",
@@ -889,7 +889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T19:36:20.086Z",
+    "last_updated": "2026-09-02T19:30:16.778Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of libraries and learning resources for ES2015 tagged template literals",
