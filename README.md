@@ -20,7 +20,7 @@ If you find something new and interesting, feel free to send a PR :)
 
 ### Date
 
-* [fdate](https://github.com/3846masa/fdate) ⭐ 36 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-04 *Light-weight, faster datetime formatter for modern browsers.*
+* [fdate](https://github.com/3846masa/fdate) ⭐ 36 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-05 *Light-weight, faster datetime formatter for modern browsers.*
 
 ### General
 
@@ -33,11 +33,11 @@ If you find something new and interesting, feel free to send a PR :)
 
 ### GraphQL
 
-* [graphql-tag](https://github.com/apollographql/graphql-tag) ⭐ 2,331 | 🐛 97 | 🌐 TypeScript | 📅 2026-06-17 *A JavaScript template literal tag that parses GraphQL queries*
+* [graphql-tag](https://github.com/apollographql/graphql-tag) ⭐ 2,331 | 🐛 98 | 🌐 TypeScript | 📅 2026-06-17 *A JavaScript template literal tag that parses GraphQL queries*
 
 ### HTML
 
-* [HTM](https://github.com/developit/htm) ⭐ 9,044 | 🐛 49 | 🌐 JavaScript | 📅 2024-02-01 *Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.*
+* [HTM](https://github.com/developit/htm) ⭐ 9,043 | 🐛 49 | 🌐 JavaScript | 📅 2024-02-01 *Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.*
 * [hyperHTML](https://github.com/WebReflection/hyperHTML) ⭐ 3,118 | 🐛 11 | 🌐 HTML | 📅 2023-08-04 *A Fast & Light Virtual DOM Alternative*
 * [t7](https://github.com/trueadm/t7) ⚠️ Archived *Lightweight virtual DOM templating library*
 * [viperHTML](https://github.com/WebReflection/viperHTML) ⚠️ Archived *Isomorphic hyperHTML*
@@ -84,7 +84,7 @@ If you find something new and interesting, feel free to send a PR :)
 
 ### WebComponents
 
-* [snuggsi](https://github.com/devpunks/snuggsi) ⭐ 395 | 🐛 45 | 🌐 JavaScript | 📅 2026-09-04 *Easy Web Components in \~1kB*
+* [snuggsi](https://github.com/devpunks/snuggsi) ⭐ 395 | 🐛 45 | 🌐 JavaScript | 📅 2026-09-05 *Easy Web Components in \~1kB*
 
 ### YAML
 
@@ -92,4 +92,4 @@ If you find something new and interesting, feel free to send a PR :)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
