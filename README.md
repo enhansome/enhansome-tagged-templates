@@ -20,7 +20,7 @@ If you find something new and interesting, feel free to send a PR :)
 
 ### Date
 
-* [fdate](https://github.com/3846masa/fdate) ⭐ 36 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-13 *Light-weight, faster datetime formatter for modern browsers.*
+* [fdate](https://github.com/3846masa/fdate) ⭐ 36 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-15 *Light-weight, faster datetime formatter for modern browsers.*
 
 ### General
 
@@ -33,7 +33,7 @@ If you find something new and interesting, feel free to send a PR :)
 
 ### GraphQL
 
-* [graphql-tag](https://github.com/apollographql/graphql-tag) ⭐ 2,331 | 🐛 98 | 🌐 TypeScript | 📅 2026-06-17 *A JavaScript template literal tag that parses GraphQL queries*
+* [graphql-tag](https://github.com/apollographql/graphql-tag) ⭐ 2,330 | 🐛 98 | 🌐 TypeScript | 📅 2026-06-17 *A JavaScript template literal tag that parses GraphQL queries*
 
 ### HTML
 
@@ -75,7 +75,7 @@ If you find something new and interesting, feel free to send a PR :)
 
 ### SQL
 
-* [SQL Template Strings](https://github.com/felixfbecker/node-sql-template-strings) ⭐ 625 | 🐛 70 | 🌐 JavaScript | 📅 2026-09-11 *ES6 tagged template strings for prepared SQL statements*
+* [SQL Template Strings](https://github.com/felixfbecker/node-sql-template-strings) ⭐ 625 | 🐛 70 | 🌐 JavaScript | 📅 2026-09-15 *ES6 tagged template strings for prepared SQL statements*
 * [sq-tag](https://github.com/ruimarinho/sql-tag) ⭐ 35 | 🐛 1 | 🌐 JavaScript | 📅 2016-11-04 *A template tag for writing elegant parameterized SQL queries based on ES2015 tagged template literals*
 * [sql](https://github.com/sequencework/sql) ⭐ 31 | 🐛 25 | 🌐 TypeScript | 📅 2022-12-09 *Javascript tag to format SQL template literals*
 * [node-sql-composer](https://github.com/rafeememon/node-sql-composer) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2015-12-02 *Composable SQL template strings for Node.js*
@@ -84,7 +84,7 @@ If you find something new and interesting, feel free to send a PR :)
 
 ### WebComponents
 
-* [snuggsi](https://github.com/devpunks/snuggsi) ⭐ 395 | 🐛 45 | 🌐 JavaScript | 📅 2026-09-14 *Easy Web Components in \~1kB*
+* [snuggsi](https://github.com/devpunks/snuggsi) ⭐ 395 | 🐛 45 | 🌐 JavaScript | 📅 2026-09-15 *Easy Web Components in \~1kB*
 
 ### YAML
 
@@ -92,4 +92,4 @@ If you find something new and interesting, feel free to send a PR :)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
