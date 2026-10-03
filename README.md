@@ -33,7 +33,7 @@ If you find something new and interesting, feel free to send a PR :)
 
 ### GraphQL
 
-* [graphql-tag](https://github.com/apollographql/graphql-tag) ⭐ 2,330 | 🐛 98 | 🌐 TypeScript | 📅 2026-06-17 *A JavaScript template literal tag that parses GraphQL queries*
+* [graphql-tag](https://github.com/apollographql/graphql-tag) ⭐ 2,328 | 🐛 98 | 🌐 TypeScript | 📅 2026-06-17 *A JavaScript template literal tag that parses GraphQL queries*
 
 ### HTML
 

@@ -195,7 +195,7 @@
                 "open_issues": 98,
                 "owner": "apollographql",
                 "repo": "graphql-tag",
-                "stars": 2330,
+                "stars": 2328,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:59.099Z"
@@ -889,7 +889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:08:10.887Z",
+    "last_updated": "2026-10-03T19:25:34.334Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of libraries and learning resources for ES2015 tagged template literals",
