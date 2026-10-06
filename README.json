@@ -223,7 +223,7 @@
                 "open_issues": 49,
                 "owner": "developit",
                 "repo": "htm",
-                "stars": 9046,
+                "stars": 9045,
                 "topics": [
                   "babel",
                   "babel-plugin",
@@ -889,7 +889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:47:03.434Z",
+    "last_updated": "2026-10-06T21:14:09.013Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of libraries and learning resources for ES2015 tagged template literals",

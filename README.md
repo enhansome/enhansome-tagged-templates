@@ -37,7 +37,7 @@ If you find something new and interesting, feel free to send a PR :)
 
 ### HTML
 
-* [HTM](https://github.com/developit/htm) ⭐ 9,046 | 🐛 49 | 🌐 JavaScript | 📅 2024-02-01 *Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.*
+* [HTM](https://github.com/developit/htm) ⭐ 9,045 | 🐛 49 | 🌐 JavaScript | 📅 2024-02-01 *Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.*
 * [hyperHTML](https://github.com/WebReflection/hyperHTML) ⭐ 3,107 | 🐛 11 | 🌐 HTML | 📅 2023-08-04 *A Fast & Light Virtual DOM Alternative*
 * [t7](https://github.com/trueadm/t7) ⚠️ Archived *Lightweight virtual DOM templating library*
 * [viperHTML](https://github.com/WebReflection/viperHTML) ⚠️ Archived *Isomorphic hyperHTML*
