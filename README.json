@@ -21,7 +21,7 @@
                 "open_issues": 81,
                 "owner": "astroturfcss",
                 "repo": "astroturf",
-                "stars": 2282,
+                "stars": 2283,
                 "topics": [
                   "astroturf",
                   "css"
@@ -78,7 +78,7 @@
                 "id": 131377180,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-12T11:05:48Z",
+                "last_commit": "2026-10-13T20:39:33Z",
                 "open_issues": 5,
                 "owner": "3846masa",
                 "repo": "lit-date",
@@ -223,7 +223,7 @@
                 "open_issues": 49,
                 "owner": "developit",
                 "repo": "htm",
-                "stars": 9049,
+                "stars": 9051,
                 "topics": [
                   "babel",
                   "babel-plugin",
@@ -282,7 +282,7 @@
                 "open_issues": 11,
                 "owner": "trueadm",
                 "repo": "t7",
-                "stars": 893,
+                "stars": 894,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:59.099Z"
@@ -690,7 +690,7 @@
                 "id": 42783737,
                 "language": "JavaScript",
                 "license": "ISC",
-                "last_commit": "2026-10-10T09:26:53Z",
+                "last_commit": "2026-10-13T12:50:33Z",
                 "open_issues": 70,
                 "owner": "felixfbecker",
                 "repo": "node-sql-template-strings",
@@ -829,7 +829,7 @@
                 "id": 598315,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-12T03:59:02Z",
+                "last_commit": "2026-10-13T05:08:18Z",
                 "open_issues": 45,
                 "owner": "devpunks",
                 "repo": "snuggsi",
@@ -889,7 +889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T23:13:42.369Z",
+    "last_updated": "2026-10-13T21:33:16.918Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of libraries and learning resources for ES2015 tagged template literals",
