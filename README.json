@@ -78,7 +78,7 @@
                 "id": 131377180,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-29T20:45:02Z",
+                "last_commit": "2026-10-30T18:52:29Z",
                 "open_issues": 5,
                 "owner": "3846masa",
                 "repo": "lit-date",
@@ -250,7 +250,7 @@
                 "open_issues": 11,
                 "owner": "WebReflection",
                 "repo": "hyperHTML",
-                "stars": 3106,
+                "stars": 3107,
                 "topics": [
                   "alternative",
                   "dom",
@@ -282,7 +282,7 @@
                 "open_issues": 11,
                 "owner": "trueadm",
                 "repo": "t7",
-                "stars": 893,
+                "stars": 892,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:59.099Z"
@@ -690,11 +690,11 @@
                 "id": 42783737,
                 "language": "JavaScript",
                 "license": "ISC",
-                "last_commit": "2026-10-26T23:33:27Z",
+                "last_commit": "2026-10-30T17:22:48Z",
                 "open_issues": 70,
                 "owner": "felixfbecker",
                 "repo": "node-sql-template-strings",
-                "stars": 625,
+                "stars": 624,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:59.099Z"
@@ -829,7 +829,7 @@
                 "id": 598315,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-29T04:01:29Z",
+                "last_commit": "2026-10-30T04:03:04Z",
                 "open_issues": 45,
                 "owner": "devpunks",
                 "repo": "snuggsi",
@@ -889,7 +889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T21:26:12.382Z",
+    "last_updated": "2026-10-30T21:03:18.329Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of libraries and learning resources for ES2015 tagged template literals",
