@@ -250,7 +250,7 @@
                 "open_issues": 11,
                 "owner": "WebReflection",
                 "repo": "hyperHTML",
-                "stars": 3107,
+                "stars": 3108,
                 "topics": [
                   "alternative",
                   "dom",
@@ -829,7 +829,7 @@
                 "id": 598315,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-30T04:03:04Z",
+                "last_commit": "2026-10-31T03:47:45Z",
                 "open_issues": 45,
                 "owner": "devpunks",
                 "repo": "snuggsi",
@@ -889,7 +889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T21:03:18.329Z",
+    "last_updated": "2026-10-31T20:18:11.837Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of libraries and learning resources for ES2015 tagged template literals",
