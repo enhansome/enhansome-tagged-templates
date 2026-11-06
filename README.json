@@ -250,7 +250,7 @@
                 "open_issues": 11,
                 "owner": "WebReflection",
                 "repo": "hyperHTML",
-                "stars": 3109,
+                "stars": 3108,
                 "topics": [
                   "alternative",
                   "dom",
@@ -282,7 +282,7 @@
                 "open_issues": 11,
                 "owner": "trueadm",
                 "repo": "t7",
-                "stars": 890,
+                "stars": 889,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:59.099Z"
@@ -303,7 +303,7 @@
                 "open_issues": 1,
                 "owner": "WebReflection",
                 "repo": "viperHTML",
-                "stars": 312,
+                "stars": 311,
                 "topics": [
                   "html",
                   "isomorphic",
@@ -829,7 +829,7 @@
                 "id": 598315,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-05T04:49:29Z",
+                "last_commit": "2026-11-06T04:48:49Z",
                 "open_issues": 45,
                 "owner": "devpunks",
                 "repo": "snuggsi",
@@ -889,7 +889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T22:18:22.708Z",
+    "last_updated": "2026-11-06T21:46:00.858Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of libraries and learning resources for ES2015 tagged template literals",
