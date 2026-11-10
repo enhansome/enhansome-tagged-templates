@@ -37,7 +37,7 @@ If you find something new and interesting, feel free to send a PR :)
 
 ### HTML
 
-* [HTM](https://github.com/developit/htm) ⭐ 9,049 | 🐛 50 | 🌐 JavaScript | 📅 2024-02-01 *Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.*
+* [HTM](https://github.com/developit/htm) ⭐ 9,050 | 🐛 50 | 🌐 JavaScript | 📅 2024-02-01 *Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.*
 * [hyperHTML](https://github.com/WebReflection/hyperHTML) ⭐ 3,108 | 🐛 11 | 🌐 HTML | 📅 2023-08-04 *A Fast & Light Virtual DOM Alternative*
 * [t7](https://github.com/trueadm/t7) ⚠️ Archived *Lightweight virtual DOM templating library*
 * [viperHTML](https://github.com/WebReflection/viperHTML) ⚠️ Archived *Isomorphic hyperHTML*
@@ -58,7 +58,7 @@ If you find something new and interesting, feel free to send a PR :)
 
 ### Localization
 
-* [ttag](https://github.com/ttag-org/ttag) ⭐ 355 | 🐛 50 | 🌐 TypeScript | 📅 2025-07-01 *simple approach for javascript localization*
+* [ttag](https://github.com/ttag-org/ttag) ⭐ 356 | 🐛 50 | 🌐 TypeScript | 📅 2025-07-01 *simple approach for javascript localization*
 * [i18n Tagged Template Literals](https://github.com/skolmer/es2015-i18n-tag) ⚠️ Archived *ES2015 template literal tag for i18n and l10n (translation and internationalization)*
 
 ### Markdown
@@ -84,7 +84,7 @@ If you find something new and interesting, feel free to send a PR :)
 
 ### WebComponents
 
-* [snuggsi](https://github.com/devpunks/snuggsi) ⭐ 395 | 🐛 45 | 🌐 JavaScript | 📅 2026-11-09 *Easy Web Components in \~1kB*
+* [snuggsi](https://github.com/devpunks/snuggsi) ⭐ 396 | 🐛 45 | 🌐 JavaScript | 📅 2026-11-10 *Easy Web Components in \~1kB*
 
 ### YAML
 
