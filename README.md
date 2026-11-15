@@ -20,7 +20,7 @@ If you find something new and interesting, feel free to send a PR :)
 
 ### Date
 
-* [fdate](https://github.com/3846masa/fdate) ⭐ 36 | 🐛 6 | 🌐 JavaScript | 📅 2026-11-14 *Light-weight, faster datetime formatter for modern browsers.*
+* [fdate](https://github.com/3846masa/fdate) ⭐ 36 | 🐛 5 | 🌐 JavaScript | 📅 2026-11-15 *Light-weight, faster datetime formatter for modern browsers.*
 
 ### General
 
@@ -43,7 +43,7 @@ If you find something new and interesting, feel free to send a PR :)
 * [viperHTML](https://github.com/WebReflection/viperHTML) ⚠️ Archived *Isomorphic hyperHTML*
 * [facon](https://github.com/terkelg/facon) ⭐ 227 | 🐛 1 | 🌐 JavaScript | 📅 2024-10-16 *Tiny utility (272B) to create DOM elements with manner*
 * [html-template-tag](https://github.com/AntonioVdlC/html-template-tag) ⭐ 70 | 🐛 7 | 🌐 TypeScript | 📅 2026-02-16 *Escapes interpolated values in HTML strings*
-* [escape-html-template-tag](https://github.com/Janpot/escape-html-template-tag) ⭐ 33 | 🐛 2 | 🌐 TypeScript | 📅 2026-02-03 *Escapes interpolated values in HTML strings*
+* [escape-html-template-tag](https://github.com/Janpot/escape-html-template-tag) ⭐ 33 | 🐛 3 | 🌐 TypeScript | 📅 2026-02-03 *Escapes interpolated values in HTML strings*
 * [genel](https://github.com/capsidjs/genel) ⚠️ Archived *Utility for generating html elements with tagged`template literal`. Only 649 bytes.*
 * [macon](https://github.com/LoganTann/macon) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2025-01-22 *Tiny utility (430B) to create reactive jquery components using a JSX-like syntax*
 
@@ -84,7 +84,7 @@ If you find something new and interesting, feel free to send a PR :)
 
 ### WebComponents
 
-* [snuggsi](https://github.com/devpunks/snuggsi) ⭐ 396 | 🐛 45 | 🌐 JavaScript | 📅 2026-11-14 *Easy Web Components in \~1kB*
+* [snuggsi](https://github.com/devpunks/snuggsi) ⭐ 396 | 🐛 45 | 🌐 JavaScript | 📅 2026-11-15 *Easy Web Components in \~1kB*
 
 ### YAML
 
@@ -92,4 +92,4 @@ If you find something new and interesting, feel free to send a PR :)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
