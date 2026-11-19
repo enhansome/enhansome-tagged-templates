@@ -78,8 +78,8 @@
                 "id": 131377180,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-17T21:07:51Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-19T13:12:54Z",
+                "open_issues": 6,
                 "owner": "3846masa",
                 "repo": "lit-date",
                 "stars": 36,
@@ -195,7 +195,7 @@
                 "open_issues": 97,
                 "owner": "apollographql",
                 "repo": "graphql-tag",
-                "stars": 2327,
+                "stars": 2326,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:59.099Z"
@@ -250,7 +250,7 @@
                 "open_issues": 11,
                 "owner": "WebReflection",
                 "repo": "hyperHTML",
-                "stars": 3108,
+                "stars": 3106,
                 "topics": [
                   "alternative",
                   "dom",
@@ -470,7 +470,7 @@
                 "open_issues": 1,
                 "owner": "valqelyan",
                 "repo": "karin",
-                "stars": 389,
+                "stars": 388,
                 "topics": [
                   "browser",
                   "http-client",
@@ -559,7 +559,7 @@
                 "open_issues": 50,
                 "owner": "ttag-org",
                 "repo": "ttag",
-                "stars": 356,
+                "stars": 354,
                 "topics": [
                   "es6",
                   "i18n",
@@ -829,11 +829,11 @@
                 "id": 598315,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-18T05:40:20Z",
+                "last_commit": "2026-11-19T05:38:58Z",
                 "open_issues": 45,
                 "owner": "devpunks",
                 "repo": "snuggsi",
-                "stars": 396,
+                "stars": 395,
                 "topics": [
                   "custom-elements",
                   "dom",
@@ -889,7 +889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T23:08:17.674Z",
+    "last_updated": "2026-11-19T23:14:11.917Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of libraries and learning resources for ES2015 tagged template literals",
