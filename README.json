@@ -78,8 +78,8 @@
                 "id": 131377180,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-20T19:10:17Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-21T20:49:45Z",
+                "open_issues": 6,
                 "owner": "3846masa",
                 "repo": "lit-date",
                 "stars": 36,
@@ -829,7 +829,7 @@
                 "id": 598315,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-20T05:27:20Z",
+                "last_commit": "2026-11-21T05:19:34Z",
                 "open_issues": 45,
                 "owner": "devpunks",
                 "repo": "snuggsi",
@@ -889,7 +889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T22:48:58.261Z",
+    "last_updated": "2026-11-21T21:53:52.680Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of libraries and learning resources for ES2015 tagged template literals",
