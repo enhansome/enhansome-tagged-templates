@@ -78,7 +78,7 @@
                 "id": 131377180,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-22T00:24:25Z",
+                "last_commit": "2026-11-23T22:42:39Z",
                 "open_issues": 5,
                 "owner": "3846masa",
                 "repo": "lit-date",
@@ -195,7 +195,7 @@
                 "open_issues": 97,
                 "owner": "apollographql",
                 "repo": "graphql-tag",
-                "stars": 2326,
+                "stars": 2325,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:59.099Z"
@@ -223,7 +223,7 @@
                 "open_issues": 50,
                 "owner": "developit",
                 "repo": "htm",
-                "stars": 9052,
+                "stars": 9051,
                 "topics": [
                   "babel",
                   "babel-plugin",
@@ -829,7 +829,7 @@
                 "id": 598315,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-22T04:45:10Z",
+                "last_commit": "2026-11-23T05:23:22Z",
                 "open_issues": 45,
                 "owner": "devpunks",
                 "repo": "snuggsi",
@@ -889,7 +889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T22:02:41.826Z",
+    "last_updated": "2026-11-24T03:03:11.856Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of libraries and learning resources for ES2015 tagged template literals",
