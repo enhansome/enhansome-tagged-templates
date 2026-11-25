@@ -33,15 +33,15 @@ If you find something new and interesting, feel free to send a PR :)
 
 ### GraphQL
 
-* [graphql-tag](https://github.com/apollographql/graphql-tag) ⭐ 2,325 | 🐛 97 | 🌐 TypeScript | 📅 2026-06-17 *A JavaScript template literal tag that parses GraphQL queries*
+* [graphql-tag](https://github.com/apollographql/graphql-tag) ⭐ 2,324 | 🐛 97 | 🌐 TypeScript | 📅 2026-06-17 *A JavaScript template literal tag that parses GraphQL queries*
 
 ### HTML
 
-* [HTM](https://github.com/developit/htm) ⭐ 9,051 | 🐛 50 | 🌐 JavaScript | 📅 2024-02-01 *Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.*
+* [HTM](https://github.com/developit/htm) ⭐ 9,050 | 🐛 50 | 🌐 JavaScript | 📅 2024-02-01 *Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.*
 * [hyperHTML](https://github.com/WebReflection/hyperHTML) ⭐ 3,106 | 🐛 11 | 🌐 HTML | 📅 2023-08-04 *A Fast & Light Virtual DOM Alternative*
 * [t7](https://github.com/trueadm/t7) ⚠️ Archived *Lightweight virtual DOM templating library*
 * [viperHTML](https://github.com/WebReflection/viperHTML) ⚠️ Archived *Isomorphic hyperHTML*
-* [facon](https://github.com/terkelg/facon) ⭐ 227 | 🐛 1 | 🌐 JavaScript | 📅 2024-10-16 *Tiny utility (272B) to create DOM elements with manner*
+* [facon](https://github.com/terkelg/facon) ⭐ 226 | 🐛 1 | 🌐 JavaScript | 📅 2024-10-16 *Tiny utility (272B) to create DOM elements with manner*
 * [html-template-tag](https://github.com/AntonioVdlC/html-template-tag) ⭐ 70 | 🐛 7 | 🌐 TypeScript | 📅 2026-02-16 *Escapes interpolated values in HTML strings*
 * [escape-html-template-tag](https://github.com/Janpot/escape-html-template-tag) ⭐ 33 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-16 *Escapes interpolated values in HTML strings*
 * [genel](https://github.com/capsidjs/genel) ⚠️ Archived *Utility for generating html elements with tagged`template literal`. Only 649 bytes.*
@@ -84,7 +84,7 @@ If you find something new and interesting, feel free to send a PR :)
 
 ### WebComponents
 
-* [snuggsi](https://github.com/devpunks/snuggsi) ⭐ 395 | 🐛 45 | 🌐 JavaScript | 📅 2026-11-23 *Easy Web Components in \~1kB*
+* [snuggsi](https://github.com/devpunks/snuggsi) ⭐ 395 | 🐛 45 | 🌐 JavaScript | 📅 2026-11-24 *Easy Web Components in \~1kB*
 
 ### YAML
 
@@ -92,4 +92,4 @@ If you find something new and interesting, feel free to send a PR :)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
