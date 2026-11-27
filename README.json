@@ -223,7 +223,7 @@
                 "open_issues": 50,
                 "owner": "developit",
                 "repo": "htm",
-                "stars": 9049,
+                "stars": 9048,
                 "topics": [
                   "babel",
                   "babel-plugin",
@@ -556,7 +556,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2025-07-01T10:25:38Z",
-                "open_issues": 66,
+                "open_issues": 63,
                 "owner": "ttag-org",
                 "repo": "ttag",
                 "stars": 354,
@@ -829,7 +829,7 @@
                 "id": 598315,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-25T06:40:56Z",
+                "last_commit": "2026-11-26T06:32:15Z",
                 "open_issues": 45,
                 "owner": "devpunks",
                 "repo": "snuggsi",
@@ -889,7 +889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T00:40:31.036Z",
+    "last_updated": "2026-11-27T00:48:57.034Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of libraries and learning resources for ES2015 tagged template literals",
